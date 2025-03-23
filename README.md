@@ -39,7 +39,6 @@ Before running the app, make sure you have:
    pip install -r requirements.txt
    ```
 
-3. Download the trained model (`handwriting_recognition_34_fullDS.keras`) and tokenizer file (`tokenizer.json`). Place them in the appropriate directories.
 
 ### Running the App
 
